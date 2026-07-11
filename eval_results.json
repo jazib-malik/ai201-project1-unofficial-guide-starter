@@ -1,0 +1,180 @@
+[
+  {
+    "question": "Is it safe to live alone in southside Berkeley?",
+    "answer": "According to the thread \"Safe to live alone in southside\", some students say it's not that bad and that you can be fine if you take precautions such as locking up, not talking to strangers, and carrying pepper spray. One student mentions that the neighborhood has changed and they've noticed less crime. However, another student expresses concern about safety, especially for women walking alone. Overall, students seem to think that with some caution and preparation, it is possible to live alone safely in southside Berkeley.",
+    "sources": [
+      "southside_safety_1402pj4.txt (https://www.reddit.com/r/berkeley/comments/1402pj4/safe_to_live_alone_in_southside/)"
+    ],
+    "chunks": [
+      {
+        "source": "southside_safety_1402pj4.txt",
+        "distance": 0.28408944606781006,
+        "text": "Thread: Safe to live alone in southside\nIt sure has changed\u2026gotten worse, I reckon\nThey have door jams that you can put on the inside once you\u2019re in the house. Easily bought on Amazon.\nIm an incoming transfer and I was planning on getting an apartment on southside too! I'm a 200lbs male bodybuilder tho, but regardless all the robberies and assaults still make me very concerned :(\nIt\u2019s really not that bad. Just make sure you lock up when ur inside and out. Don\u2019t talk to strangers get some pepper spray and stay alert & you\u2019ll be fine. Probably won\u2019t ever have to use it. The neighborhood in south berkeley has changed a lot and I\u2019ve noticed less crime"
+      },
+      {
+        "source": "southside_safety_1402pj4.txt",
+        "distance": 0.30541062355041504,
+        "text": "Thread: Safe to live alone in southside\nAlso...don't hesitate to talk to older women as neighbors, not just Cal students. Many people feel the only people they can connect with are of their own age group...but all those older women in Berkeley have interesting life experiences *and empathy*. Most of them were also young college students once upon a time (many permanent Berkeley residents went to Cal, and stayed on to live and work in the area), and a lot of them will have specific past experiences, both good and bad, that can be a reservoir of advice and support for you.\nGood luck in your new independent living situation!\nPepper spray is one of the most effective weapons around."
+      },
+      {
+        "source": "southside_safety_1402pj4.txt",
+        "distance": 0.33010590076446533,
+        "text": "Thread: Safe to live alone in southside\nI\u2019m not sure women would be safe walking alone during the day or night in the 40s or 50s, especially in San Francisco.\nIf you get pepper spray, don't just keep it in your backpack. When a situation arises you'll never reach that fast enough. I have it on the strap of my backpack, always within reach.\nThere are no rules in Berkeley, and there will be no relief.\nNo other weapon comes close to being as effective with little to no training or skill. You push a button and 99% of attackers are going to be on the ground crying and gasping for air pretty much immediately."
+      },
+      {
+        "source": "southside_safety_1402pj4.txt",
+        "distance": 0.3496425747871399,
+        "text": "Thread: Safe to live alone in southside\nNot sure if you're living in an apartment or a room in a house...but I'll assume apartment for the moment.\nRegarding locks, Berkeley law, I believe, requires all rental apartments to have deadbolt locks (in addition to any lock that's on the door handle. The deadbolt is the separate lock, usually placed in the door above the handle, that has its own key and is operated from the inside by a little lever). If yours doesn't have one, you can check with the Rent Stabilization Board online or by email for the exact information on what's required of the owner.\nIn addition to the other good advice, I would emphasize *get to know your neighbors*. So many people in apartment buildings in Berkeley live in isolation, both from others in their building and others who live nearby."
+      },
+      {
+        "source": "southside_safety_1402pj4.txt",
+        "distance": 0.35308265686035156,
+        "text": "Thread: Safe to live alone in southside\nThey are all potential acquaintances, and maybe some might become friends if you chat enough with them over the coming year. Also, knowing some people by sight and name in your building will help if there are any problems--there's a power outage, there's an issue with the building management, you (or they) get sick and need something from the grocery store or drugstore, or you feel threatened by something and you just need a place and a person to connect with quickly and nearby."
+      }
+    ]
+  },
+  {
+    "question": "When should I start looking for an apartment for the next school year?",
+    "answer": "According to the thread \"when to start looking for apartments of fall 2025\", students say they scope locations in February and start touring early March, with the goal of having a new lease before dead week. Additionally, a student in the thread \"Questions about housing from a new student\" mentions that they've heard people say that apartment listings tend to go up about a month or so before their leases start.",
+    "sources": [
+      "new_student_housing_r01hx.txt (https://www.reddit.com/r/berkeley/comments/r01hx/questions_about_housing_from_a_new_student/)",
+      "when_to_search_1i3kdjh.txt (https://www.reddit.com/r/berkeley/comments/1i3kdjh/when_to_start_looking_for_apartments_of_fall_2025/)",
+      "intl_summer_housing_1dup8e.txt (https://www.reddit.com/r/berkeley/comments/1dup8e/international_student_coming_for_the_summer/)",
+      "grad_housing_1irtkg6.txt (https://www.reddit.com/r/berkeley/comments/1irtkg6/grad_students_housing_options/)"
+    ],
+    "chunks": [
+      {
+        "source": "new_student_housing_r01hx.txt",
+        "distance": 0.3182818293571472,
+        "text": "Thread: Questions about housing from a new student\nOriginal post:\nHi all, I'll be starting graduate school at Berkeley in August, and I was wondering when the best time to look for housing is. I'd like to move in around the middle of July, or the beginning of August at the latest (trying to time it with my current lease ending). When do the most listings tend to go up on Craigslist? So far I've heard people say that things go up a month or so before their leases start, but I wanted to double check."
+      },
+      {
+        "source": "when_to_search_1i3kdjh.txt",
+        "distance": 0.3810437321662903,
+        "text": "Thread: when to start looking for apartments of fall 2025\nOriginal post:\nive been contacting people rn and they say they're only leasing for spring, when is a good time to check back in again?\nI scope locations in Feb and start touring early March. Ideally have a new lease before dead week"
+      },
+      {
+        "source": "intl_summer_housing_1dup8e.txt",
+        "distance": 0.5002979636192322,
+        "text": "Thread: International student coming for the Summer, looking for housing/advice\nOriginal post:\nHi!\nI'm a 22 year old male French student majoring in Computer Science. I'll be studying at UC Berkeley for the Summer sessions and I'd love to have one or several redditors as room/housemates. Do any of you need a roommate? I'm clean, responsible, friendly, and somewhat quiet. I would prefer to have my own room, but I wouldn't mind sharing a room if I needed to. I'm looking for a place to move in around June 6th or possibly later and I'd be moving out around August 20th. I'll need some really basic furniture as well (at the very least something to sleep on). I won't have a car so I need it to be somewhere close enough to campus that I can walk."
+      },
+      {
+        "source": "grad_housing_1irtkg6.txt",
+        "distance": 0.531671941280365,
+        "text": "Thread: Grad Students Housing Options\nwait fr? i want a studio though and the manville studios look p nice to me\nOn the topic of XR, social spaces are either near campus (so you\u2019ll be far) or in San Francisco (so you\u2019d be far regardless). Good thing is there\u2019s a bus line that starts in front of the building (full route is literally UC Village-UC Campus and back), and another one that ends there. The apartments are nice, but there\u2019s probably better deals elsewhere if you have the time to actually look for housing in person.\nAlso I\u2019m not sure if anyone bikes all the way to campus, but there\u2019s bike parking in the building and the buses have bike rack(s?) on front"
+      },
+      {
+        "source": "grad_housing_1irtkg6.txt",
+        "distance": 0.5334415435791016,
+        "text": "Thread: Grad Students Housing Options\nOn the topic of XR, social spaces are either next to campus (so you\u2019ll be far) or in San Francisco (so you\u2019d be far regardless). Good thing is there\u2019s a bus line that starts in front of the building (full route is literally UC Village-UC Campus and back), and another one that ends there. The apartments are nice, but there\u2019s probably better deals elsewhere if you have the time to actually look for housing in person."
+      }
+    ]
+  },
+  {
+    "question": "Which landlords or property management companies do students say to avoid?",
+    "answer": "According to the thread \"Ace Berkeley apartments DO NOT RENT\", students say to avoid Ace Berkeley student apartments due to issues with management and the building. Additionally, according to the thread \"AVOID STERLING APARTMENT COLLECTIONS AT ALL COST!!!!\", students say to avoid Sterling Apartment Collections due to problems such as unreliable internet, construction, and maintenance issues.",
+    "sources": [
+      "avoid_ace_berkeley_1idyoyy.txt (https://www.reddit.com/r/berkeley/comments/1idyoyy/ace_berkeley_apartments_do_not_rent/)",
+      "grad_housing_1irtkg6.txt (https://www.reddit.com/r/berkeley/comments/1irtkg6/grad_students_housing_options/)",
+      "avoid_sterling_10qpclk.txt (https://www.reddit.com/r/berkeley/comments/10qpclk/avoid_sterling_apartment_collections_at_all_cost/)",
+      "housing_costs_1c4013y.txt (https://www.reddit.com/r/berkeley/comments/1c4013y/thoughts_on_housing_costs/)",
+      "identity_logan_park_1abwegr.txt (https://www.reddit.com/r/berkeley/comments/1abwegr/thinking_about_living_in_identity_logan_park_read/)"
+    ],
+    "chunks": [
+      {
+        "source": "avoid_ace_berkeley_1idyoyy.txt",
+        "distance": 0.5253272652626038,
+        "text": "Thread: Ace Berkeley apartments DO NOT RENT\nOriginal post:\nHello everyone,\nI moved to Berkeley in September with my partner in pursuit of their masters degree. We are currently renting a studio apartment from Ace Berkeley student apartments. We have been having a ton of issues with management and the building. We posted a Google review for it to be swiftly responded to and pushed under the rug and hidden from public domain. I will repost our Google review below and continue on some more of the issues not listed."
+      },
+      {
+        "source": "grad_housing_1irtkg6.txt",
+        "distance": 0.5427622199058533,
+        "text": "Thread: Grad Students Housing Options\nAlso I\u2019m not sure if anyone bikes all the way to campus, but there\u2019s bike parking in the building and the buses have bike rack(s?) on front\nHello there! Also considering XR right now. Is XR really boring and you find nothing to do? The bus time is also long, not convenient. but the off-campus housing is super expensive and all the property management companies are trying to push me to sign a lease and squeeze me out of any money I had to pay deposit and rent very early."
+      },
+      {
+        "source": "avoid_sterling_10qpclk.txt",
+        "distance": 0.5479937791824341,
+        "text": "Thread: AVOID STERLING APARTMENT COLLECTIONS AT ALL COST!!!!\nWifi is included but that also means your not allowed to get different plans or different service providers. Internet here is more unreliable than campus wifi, it constantly freezes/disconnects.\nOutside of building always smells like weed and there's a big construction next to us.\nElevator feels like it's about to break anytime now, I straight up don't trust it anymore and just take the stairs.\nRoof top just started renovation couple weeks ago even though management said they would start like 5 months ago and be finished by now.\n////\nNow to add even more things that has happened:\nWe had no hot water for nearly a month and this was their response:\ntldr here: $125 compensation for \\~1 month of no hot water (our water heating bill was \\~$80 this month)\nI'm taking them to small courts claim"
+      },
+      {
+        "source": "housing_costs_1c4013y.txt",
+        "distance": 0.549263596534729,
+        "text": "Thread: Thoughts on Housing Costs\nI don't oppose any of the current construction, but there's a better way, and it involves the university. Dorms should not cost the same as market rentals, the whole goal of campus housing is to shelter students from the high cost of living in the area while they pursue their studies.\nOh yeah I agree with what u/thesocialistfern said, but I found the username ironic since what they described is a typically associated with with capitalism.\nMy parents own a house that they rent out. It has a mortgage with a pre-COVID interest rate, not as low as it could be but still lower than today's rates by a wide margin. They don't make a profit off of the house and actually lose money on it because the market won't support a rental price that would result in that magical 10% profit."
+      },
+      {
+        "source": "identity_logan_park_1abwegr.txt",
+        "distance": 0.5539360046386719,
+        "text": "Thread: Thinking about living in Identity Logan Park? Read this.\nI am in the process of filing a small claims court lawsuit, but it\u2019s honestly been very difficult. I definitely need to though!\nI do pay renters insurance at Identity, but I wasn\u2019t exactly sure what that covered.\nThanks for the warning. Have you researched options and are there any you recommend to a freshman looking to move in August?"
+      }
+    ]
+  },
+  {
+    "question": "How much should I expect to pay in rent near campus?",
+    "answer": "According to the thread \"Grad Students Housing Options\", students say you can expect to pay around $1100-1500 for a nice single room in an apartment/house with roommates near campus. Additionally, the thread \"Best One Bed, One Bath or Solo Rooms on Berkeley (On or Off Campus)\" mentions that the user is looking to pay around $2500-$3000 per month for a solo room or one-bedroom apartment. However, this is for a different type of accommodation. The thread \"Thoughts on Housing Costs\" also mentions that non-luxury, non-university apartments off campus can be cheaper, but does not provide a specific price range for near campus.",
+    "sources": [
+      "housing_costs_1c4013y.txt (https://www.reddit.com/r/berkeley/comments/1c4013y/thoughts_on_housing_costs/)",
+      "intl_summer_housing_1dup8e.txt (https://www.reddit.com/r/berkeley/comments/1dup8e/international_student_coming_for_the_summer/)",
+      "solo_rooms_1k6ezhe.txt (https://www.reddit.com/r/berkeley/comments/1k6ezhe/best_one_bed_one_bath_or_solo_rooms_on_berkeley/)",
+      "grad_housing_1irtkg6.txt (https://www.reddit.com/r/berkeley/comments/1irtkg6/grad_students_housing_options/)"
+    ],
+    "chunks": [
+      {
+        "source": "housing_costs_1c4013y.txt",
+        "distance": 0.4353597164154053,
+        "text": "Thread: Thoughts on Housing Costs\nI don't oppose any of the current construction, but there's a better way, and it involves the university. Dorms should not cost the same as market rentals, the whole goal of campus housing is to shelter students from the high cost of living in the area while they pursue their studies.\nOh yeah I agree with what u/thesocialistfern said, but I found the username ironic since what they described is a typically associated with with capitalism.\nMy parents own a house that they rent out. It has a mortgage with a pre-COVID interest rate, not as low as it could be but still lower than today's rates by a wide margin. They don't make a profit off of the house and actually lose money on it because the market won't support a rental price that would result in that magical 10% profit."
+      },
+      {
+        "source": "housing_costs_1c4013y.txt",
+        "distance": 0.43975353240966797,
+        "text": "Thread: Thoughts on Housing Costs\nIt feels very dirty that we are in such a housing crisis, yet instead of providing more affordable housing options both the university and surrounding apartment companies are trying to profit from the situation.\nI feel conflicted though, since we desperately need housing. And the price to live at these luxury apartments (if you don\u2019t mind doubles and triples) is still cheap compared to university housing prices.\nI\u2019d like to hear different opinions about the market though, since I\u2019m currently in my own thought box.\nEdit - just looked at the prices for Anchor, and it\u2019s not that bad compared to other university housing and considering whats offered. It\u2019s still much cheaper to find a non-luxury, non-university apartment off campus though."
+      },
+      {
+        "source": "intl_summer_housing_1dup8e.txt",
+        "distance": 0.4417732357978821,
+        "text": "Thread: International student coming for the Summer, looking for housing/advice\nOriginal post:\nHi!\nI'm a 22 year old male French student majoring in Computer Science. I'll be studying at UC Berkeley for the Summer sessions and I'd love to have one or several redditors as room/housemates. Do any of you need a roommate? I'm clean, responsible, friendly, and somewhat quiet. I would prefer to have my own room, but I wouldn't mind sharing a room if I needed to. I'm looking for a place to move in around June 6th or possibly later and I'd be moving out around August 20th. I'll need some really basic furniture as well (at the very least something to sleep on). I won't have a car so I need it to be somewhere close enough to campus that I can walk."
+      },
+      {
+        "source": "solo_rooms_1k6ezhe.txt",
+        "distance": 0.4423624277114868,
+        "text": "Thread: Best One Bed, One Bath or Solo Rooms on Berkeley (On or Off Campus)\nI know rent is expensive in California, and I don't mind paying the extra to have a space to myself. Looking for an apartment around $2500 month, $3000 at most (but its gotta be really nice).\nI also have never lived in Berkeley before, so if ya'll have any insights to pass, that would greatly be appreciated.\nThanks!\nHi! Congrats on getting accepted! I was a transfer student and graduated in 2022, I rented a lovely 1B1Br apartment on Prospect St! I would try websites like apartments.com, that\u2019s where I found mine, but definitely factor in where you want to live (e.g. Northside/Southside, near Greek row/as far away from Greek row as possible etc!)"
+      },
+      {
+        "source": "grad_housing_1irtkg6.txt",
+        "distance": 0.4441349506378174,
+        "text": "Thread: Grad Students Housing Options\nmaybe the situation for international students is different but i\u2019ve never actually met anyone who lived in one of the on-campus grad apartments, with the exception of the UC village. off campus, people live all over, but north/central berkeley are some common spots. you can expect to pay around 1100-1500 for a nice single room in an apartment/house with roommates depending on how close you want to be to campus. biking is very common (as long as your office/building as a place to securely store it). as for bars, the ones closer to campus aren\u2019t popular with grad students \u2014 most people i know go out in oakland or to breweries in west berkeley.\ni\u2019m pretty sure they\u2019re super super competitive\nHi, I'm also an international student, now living in xucyun."
+      }
+    ]
+  },
+  {
+    "question": "What is the best dining hall on campus?",
+    "answer": "I don't have enough information on that in my documents.",
+    "sources": [],
+    "chunks": [
+      {
+        "source": "solo_rooms_1k6ezhe.txt",
+        "distance": 0.42238152027130127,
+        "text": "Thread: Best One Bed, One Bath or Solo Rooms on Berkeley (On or Off Campus)\nUnfortunately, I am not in California right now :(. I guess I would like to avoid the frats and sororites cause Im really introverted lol.\nGreek row is where the Sororities and Fraternities are! Mostly on Piedmont Avenue (near the stadium) \nSouthside is nearest Sproul Plaza, and the main streets like Telegraph Avenue. Northside is a lot quieter, less studenty, or at least it was when I was there. Your best bet is to visit campus if possible and get a feel for it, where you might be most happy/comfortable whether that\u2019s in the student buzz or slightly removed from it"
+      },
+      {
+        "source": "solo_rooms_1k6ezhe.txt",
+        "distance": 0.48529052734375,
+        "text": "Thread: Best One Bed, One Bath or Solo Rooms on Berkeley (On or Off Campus)\nSingles are a rarity for on-campus housing unless you have medical accommodations, are regents, or are just lucky. And you can forget about the single bathroom. Regardless I\u2019d recommend off-campus housing anyway. 2000-3000 is absolutely doable. If you have the flexibility to do so, moving in the off-season around winter break can be a lot cheaper too. \nIf you like the quiet, northside will probably suit you more than southside. I\u2019m a similar vibe as you and while I mostly love my southside apartment, it can get real loud at the most random times with the frats and whatnot going on. \nLandlord wise I would recommend Lapham. My experiences with them have always been smooth and professional and other people I\u2019ve spoken with have said the same."
+      },
+      {
+        "source": "grad_housing_1irtkg6.txt",
+        "distance": 0.4887911081314087,
+        "text": "Thread: Grad Students Housing Options\nHi, I'm also an international student, now living in xucyun.\nThe good part is that it's new and clean and has all the furniture/appliances. Like dishwasher and built-in washing/drying machine. Great kitchen and common space. The bad part is the distance. And yes far from the bars. Although the bus is super convenient.\nIt's also close to Sprouts. Since this apartment is located right next to UC Village, you can imagine the overall peaceful vibe.\nAlso there's ihouse if you are looking for more social events. Although I like the peace here in xucyun but I often imagine what my life would be if I had chosen ihouse..."
+      },
+      {
+        "source": "intl_summer_housing_1dup8e.txt",
+        "distance": 0.49245476722717285,
+        "text": "Thread: International student coming for the Summer, looking for housing/advice\nOriginal post:\nHi!\nI'm a 22 year old male French student majoring in Computer Science. I'll be studying at UC Berkeley for the Summer sessions and I'd love to have one or several redditors as room/housemates. Do any of you need a roommate? I'm clean, responsible, friendly, and somewhat quiet. I would prefer to have my own room, but I wouldn't mind sharing a room if I needed to. I'm looking for a place to move in around June 6th or possibly later and I'd be moving out around August 20th. I'll need some really basic furniture as well (at the very least something to sleep on). I won't have a car so I need it to be somewhere close enough to campus that I can walk."
+      },
+      {
+        "source": "grad_housing_1irtkg6.txt",
+        "distance": 0.4925718307495117,
+        "text": "Thread: Grad Students Housing Options\nAlso there's ihouse if you are looking for more social events. Although I like the peace here in xucyun but I often imagine what my life would be if I had chosen ihouse...\nHi! I think if you are looking for restaurants/bars, then there are not so many choices near XR. Bus time is 20\\~30 mins. I would recommend XR for its safety and convenience(no need to buy furniture, no need to set up internet, no need to find a guarantor, etc. ). The price is fair but not much cheaper than the market."
+      }
+    ]
+  }
+]
