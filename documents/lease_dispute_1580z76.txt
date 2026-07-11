@@ -1,0 +1,22 @@
+Title: Lease argument
+Source: r/berkeley thread, https://www.reddit.com/r/berkeley/comments/1580z76/lease_argument/
+Posted: 2023-07-24
+
+Original post:
+I’m a transfer student enrolling in UC Berkeley the following Fall. Not receiving the university housing offer, so I went online and found an affordable house rental in North Oakland. I signed the lease and paid the homeowner deposit and the rent for first month. Then the university gave me the housing offer and I and my family decided it’s better for me to live in the dorm since it’s my first year here. So I negotiated with the homeowner and she agreed to allow me to find someone else who I can transfer my lease to. She also offered to help me find potential tenants. But she told me if it is the tenants she finds finally takeover my lease, she would not return the deposits. Then several days later, a group of student came in contact with me and told me they were very interested in the property and wished to takeover my lease. I agreed and introduced them to the homeowner. During the conversation with them, I found out that they actually had picked the property even before I signed the lease. But this time, they didn’t know that I want to transfer my lease until seeing my post. Everything went smoothly after that until the landlord reached out to me one day and told me she would reckon this group of students as tenants she found and thus would not return any deposits. I was furious and argued with her because the new tenants never even contacted her until I told them to do so. How can they having the landlord’s contacts be considered they reached out to the landlord first. And then as I was arguing with her, she suddenly said she was busy and told me she didn’t want to waste her time on meaningless shit, after which she told me she will withdraw the “little help” she gave me (which is the approval of lease transfer) and let me bear the lease as I have paid the 300 security deposit for dormitory. And then, she just vanished and refused to talk to me again. I am an international student and do not want to risk my student status fighting lawsuits, and my family is not rich and cannot afford me paying double rent. What can I do? Can she even withdraw the approval just like that?
+
+Replies from students:
+
+[9 points] She is legally required to return 100% of your deposit within 30 days of the end of your lease, with interest. You can take her to small claims court to recover it. It doesn't make a difference who found the new tenants in any way, she can only keep a deposit if you caused physical damage to the property by living there (and even that has many requirements, like documenting the damage and giving you a chance to repair it yourself, among other things.) Additionally, if you broke your lease, she is legally required to accept another tenant taking over your lease, and is legally obligated to make a reasonable effort to find new tenants herself.
+
+It sounds like this landlord is trying to take advantage of you. Threaten her with small claims court. Talk to a tenants' group (the school has one, as does City of Berkeley, and I'm guessing Oakland as well.) You may even be able to recover damages from her on top of your deposit, in certain cases.
+
+[6 points] So a sublease and a lease transfer are two different things. She can may block a sublet, if there’s language in the original lease to that effect. She is legally required to let a new tenant take over your lease, if that tenant/those tenants meet lease requirements (so, not just because she doesn’t like them). She can’t block that, assuming there are new tenants willing to take over the lease.
+
+Given what you described, you should get all your money back (assuming the lease hasn’t started, in which case you’d get your deposit and prorated rent back). If she threatens to withhold any money, consult a tenants’ group and threaten her with small claims court. Shady landlords make money by bullying people who they think don’t know the law. California is a tenant friendly state.
+
+[2 points] Thanks so much dude for explaining that. I will try them out.
+
+[2 points] Oh, I forgot to mention that she can deduct the cost of advertising a new tenant from your security deposit. However, she must be able to itemize those expenses and they must be reasonable—so no paying her brother 2 months rent to list it on Craigslist or whatever.
+
+[1 points] Thanks so much for your reply. But can she withdraw the approval of sublease or transfer and force me to pay for the rest of the year?
