@@ -47,6 +47,8 @@ All documents are threads from the r/berkeley subreddit, pulled through the Pull
 
 **Reasoning:** My documents are Reddit threads, which means each unit of meaning is a comment or a paragraph of the original post. A fixed character split would cut comments in half, and half a comment is useless for retrieval (a chunk that ends mid-sentence like "the landlord refused to" cannot answer anything). Packing whole comments keeps every chunk self-contained. 800 characters fits roughly 2 to 4 typical comments, which is enough context to be meaningful but small enough that a chunk stays on one topic. I also prepend the thread title to every chunk (like "Thread: Safe to live alone in southside") because a comment like "yes it is fine, just don't walk alone at 3am" only makes sense if you know what question it was answering. The carry-over rule handles cases where a short comment is a reply that continues the previous thought.
 
+Update during implementation: a few original posts turned out to have single paragraphs way over 800 characters (one was 2,569), which would get cut off by the embedding model's 256 token limit. I added a rule that splits an oversized paragraph on sentence boundaries before packing. Final chunk sizes run from 157 to 1,104 characters with an average of 686.
+
 If chunks were too small (single short comments), the embeddings would carry almost no signal and retrieval would match on stray words. If they were too large (a whole thread), one chunk would mix safety talk with rent talk and dilute the match for any specific query. Bad retrieval in the first case looks like random one-liners; in the second case it looks like the same giant chunk coming back for every question.
 
 ---

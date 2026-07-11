@@ -58,17 +58,40 @@
 
 ## Sample Chunks
 
-<!-- Paste 5 representative chunks from your document collection after running your ingestion pipeline.
-     For each chunk, note which source document it came from.
-     These must be actual text — not screenshots. -->
+Five chunks pulled at random after running `python ingest.py` (seeded sample). Every chunk starts with a `Thread:` header so a comment keeps the context of the question it was answering.
 
-| # | Source document | Chunk text |
-|---|----------------|------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+**Chunk 1** (source: `identity_logan_park_1abwegr.txt`)
+
+> Thread: Thinking about living in Identity Logan Park? Read this.
+> It takes on average an entire business day to fix the parking system which creates two awful scenarios. If your car is in the machine while it's broken, good luck. You won't be able to get your car out until it get's repaired. This sound bad, but if your car isn't in the machine when it breaks is somehow worse. First of all, you aren't allowed to park in the regular spots in the garage as they're reserved for staff and employees at the connected Chase bank. If you do park in these spots, they have all non-registered cars towed at the end of the day and issue a fine of $500 on top of having to get your car from a tow lot. Instead, you have to pay out of pocket for street parking until it gets fixed.
+
+**Chunk 2** (source: `southside_safety_1402pj4.txt`)
+
+> Thread: Safe to live alone in southside
+> It sure has changed…gotten worse, I reckon
+> They have door jams that you can put on the inside once you're in the house. Easily bought on Amazon.
+> Im an incoming transfer and I was planning on getting an apartment on southside too! I'm a 200lbs male bodybuilder tho, but regardless all the robberies and assaults still make me very concerned :(
+> It's really not that bad. Just make sure you lock up when ur inside and out. Don't talk to strangers get some pepper spray and stay alert & you'll be fine. Probably won't ever have to use it. The neighborhood in south berkeley has changed a lot and I've noticed less crime
+
+**Chunk 3** (source: `lease_dispute_1580z76.txt`)
+
+> Thread: Lease argument
+> How can they having the landlord's contacts be considered they reached out to the landlord first. And then as I was arguing with her, she suddenly said she was busy and told me she didn't want to waste her time on meaningless shit, after which she told me she will withdraw the "little help" she gave me (which is the approval of lease transfer) and let me bear the lease as I have paid the 300 security deposit for dormitory. And then, she just vanished and refused to talk to me again. I am an international student and do not want to risk my student status fighting lawsuits, and my family is not rich and cannot afford me paying double rent. What can I do? Can she even withdraw the approval just like that?
+
+**Chunk 4** (source: `southside_safety_1402pj4.txt`)
+
+> Thread: Safe to live alone in southside
+> - Always be aware of your surroundings. Don't walk around with earbuds in looking at your phone--I can't believe how often I see this, and those folks look like walking targets. Don't flash valuables. Walk with purpose. If someone seems sketchy, avoid them but don't run (unless you have to).
+> - Get to know your neighbors. They can be a great resource if you need help of any kind, and it will probably give you a good deal of psychological reassurance to know who's around you.
+> - Take a self-defense class. A lot of people will tell you to get pepper spray or whatnot, but getting some real training in how to use it and other defense techniques will make it much more likely that you'll use it effectively.
+> It sure has changed…gotten worse, I reckon
+
+**Chunk 5** (source: `southside_safety_1402pj4.txt`)
+
+> Thread: Safe to live alone in southside
+> Not sure if you're living in an apartment or a room in a house...but I'll assume apartment for the moment.
+> Regarding locks, Berkeley law, I believe, requires all rental apartments to have deadbolt locks (in addition to any lock that's on the door handle. The deadbolt is the separate lock, usually placed in the door above the handle, that has its own key and is operated from the inside by a little lever). If yours doesn't have one, you can check with the Rent Stabilization Board online or by email for the exact information on what's required of the owner.
+> In addition to the other good advice, I would emphasize *get to know your neighbors*. So many people in apartment buildings in Berkeley live in isolation, both from others in their building and others who live nearby.
 
 ---
 
